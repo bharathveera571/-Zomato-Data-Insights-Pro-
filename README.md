@@ -40,13 +40,8 @@ By leveraging **Python, SQL, Power BI, and Tableau**, this project delivers **in
 
 ## 📊 Dashboard Previews  
 ### 🔹 **Power BI Dashboard**  
-![Power BI Dashboard](dashboard_powerbi.png)  
+![Screenshot 2025-02-01 131936](https://github.com/user-attachments/assets/f55341db-a3d2-4e6c-9b4c-9cc2ab2c1e7a)
 
-### 🔹 **Tableau Dashboard**  
-![Tableau Dashboard](dashboard_tableau.png)  
-
-### 🔹 **Excel Dashboard**  
-![Excel Dashboard](dashboard_excel.png)  
 
 ---
 
